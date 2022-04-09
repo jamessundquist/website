@@ -6,7 +6,7 @@ layout: default
 <br>At Yale:
 
 #### Immigration, Integration, and Multiculturalism in the West (teaching fellow for Salma Mousa)
-Upper-level, data-focused undergraduate course.
+Upper-level, data-focused undergraduate course.  
 [Student comments](/docs/Sundquist Fall 2021 evaluations.pdf)
 
 #### Rise of China (teaching fellow for Daniel Mattingly)
