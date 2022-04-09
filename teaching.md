@@ -5,6 +5,10 @@ layout: default
 ## Teaching Experience
 <br>At Yale:
 
+#### Immigration, Integration, and Multiculturalism in the West (teaching fellow for Salma Mousa)
+Upper-level, data-focused undergraduate course.
+[Student comments](/docs/Sundquist Fall 2021 evaluations.pdf)
+
 #### Rise of China (teaching fellow for Daniel Mattingly)
 20th Century Chinese history, contemporary politics, and China's international relations.  
 [Student comments](/docs/Rise of China evaluations.pdf)
@@ -22,7 +26,7 @@ In China:
 <br>
 
 #### Cuizhu Middle School, Changzhou, Jiangsu, China
-English teacher, first foreign faculty member
+English teacher, first foreign faculty member.
 
 ![](/assets/img/cuizhu.jpeg)
 
