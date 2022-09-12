@@ -14,11 +14,13 @@ Job Market Paper: "Institutional Eclipse: How Chinese Loans Substitute for IMF A
 
 "Why Does China Tolerate Bad Behavior in State-Owned Firms? Domestic Interests and Foreign Loans from Autocracies"
 
-"Imagined Foreign Communities: Explaining Variation in Narratives of China's Rise"
+"Telling Chinese Stories Well: Two New Mechanisms of Chinese Influence on Foreign Media"
+[pdf](/docs/GCI_WP_022_FIN.pdf)
 
 ## Additional Projects
 <br>
 "How to Use Spatial Instruments"  
+_Forthcoming, Political Science Research and Mehotds_  
 [pdf](/docs/How_to_Use_Spatial_Instruments.pdf) [appendix](/docs/Appendix_for_How_to_Use_Spatial_Instrumetns.pdf)
 
 "When Does Public Diplomacy Succeed? Evidence from China's Wolf Warrior Diplomats" with [Daniel Mattingly](http://daniel-mattingly.com/)  
