@@ -6,8 +6,8 @@ layout: default
 <br>At Yale:
 
 #### Approaches to International Security (Instructor, Fall 2022)
-80-student lecture.
-[Syllabus](/docs/AIS_Syllabus.pdf)
+80-student lecture.  
+[Syllabus](/docs/AIS_syllabus.pdf)
 
 #### Immigration, Integration, and Multiculturalism in the West (teaching fellow for Salma Mousa)
 Upper-level, data-focused undergraduate course.  
