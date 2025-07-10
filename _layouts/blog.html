@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<h1>Blog</h1>
+
+<ul>
+  {% for post in paginator.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <span>{{ post.date | date: "%B %-d, %Y" }}</span>
+    </li>
+  {% endfor %}
+</ul>
+
+{% if paginator.total_pages > 1 %}
+  <p><a href="{{ paginator.next_page_path | relative_url }}">View more posts</a></p>
+{% endif %}
